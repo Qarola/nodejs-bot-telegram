@@ -15,7 +15,7 @@ Open the file in your terminal or console/consola VSCode or Git Bash.
 Then, run::
 
 ### `npm install`
-### `npm start`
+### `npm run dev`
 
 ```sh
 Run the application in development/local mode.

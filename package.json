@@ -1,7 +1,7 @@
 {
-  "name": "bottelegram",
+  "name": "nodejs-bot-telegram-sample",
   "version": "1.0.0",
-  "description": "createing a telegram bot",
+  "description": "createing a telegram bot with NodeJS",
   "main": "index.js",
   "scripts": {
      "dev": "nodemon main.js"
